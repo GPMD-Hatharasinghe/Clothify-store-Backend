@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: root
+    password: md123
+    url: jdbc:mysql://localhost:3306/ clothify_store_2
+
+  jpa:
+    hibernate:
+      ddl-auto: update
